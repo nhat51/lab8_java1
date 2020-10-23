@@ -1,4 +1,4 @@
-package HomeWork.Lab8.Circle;
+package Lab8.Circle;
 
 public class Circle {
     double radius = 1.0;

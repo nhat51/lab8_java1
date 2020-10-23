@@ -1,4 +1,4 @@
-package HomeWork.Lab8.Shape;
+package Lab8.Shape;
 
 public class circle extends shape {
     double radius;

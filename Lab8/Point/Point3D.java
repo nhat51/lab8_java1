@@ -1,4 +1,4 @@
-package HomeWork.Lab8.Point;
+package Lab8.Point;
 
 public class Point3D extends Point2D {
     float z;
@@ -13,7 +13,7 @@ public class Point3D extends Point2D {
     public float getZ() {return z;}
     public void setZ(float z) {this.z = z;}
     public void setXYZ(float x,float y,float z){
-        super(x, y);
+
         this.z = z;
     }
 }

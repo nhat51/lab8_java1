@@ -1,6 +1,6 @@
-package HomeWork.Lab8.Circle;
+package Lab8.Circle;
 
-import HomeWork.Lab8.Circle.Circle;
+import Lab8.Circle.Circle;
 
 public class Cylinder extends Circle {
     private double height;

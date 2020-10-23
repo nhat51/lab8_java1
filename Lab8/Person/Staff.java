@@ -1,4 +1,4 @@
-package HomeWork.Lab8.Person;
+package Lab8.Person;
 
 public class Staff extends Person {
     String school;

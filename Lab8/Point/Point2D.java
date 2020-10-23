@@ -1,4 +1,4 @@
-package HomeWork.Lab8.Point;
+package Lab8.Point;
 
 public class Point2D {
     float x;

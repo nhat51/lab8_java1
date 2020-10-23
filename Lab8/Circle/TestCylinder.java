@@ -1,6 +1,6 @@
-package HomeWork.Lab8.Circle;
+package Lab8.Circle;
 
-import HomeWork.Lab8.Circle.Cylinder;
+import Lab8.Circle.Cylinder;
 
 public class TestCylinder {
     public static void main (String[] args) {
